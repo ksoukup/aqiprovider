@@ -1,0 +1,1238 @@
+10:16:22.257 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of Records in Region 25
+10:18:05.471 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of Records in Region 25
+10:19:07.496 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of Records in Region 25
+10:19:25.734 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of Records in Region 25
+10:23:24.342 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of Records in Region 25
+10:25:45.554 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of Records in Region 25
+10:33:06.386 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of regions: 1
+10:34:28.787 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of regions: 1
+10:37:26.390 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of regions: 1
+10:40:03.588 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Number of regions: 1
+12:08:45.671 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+12:11:13.484 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+12:11:49.865 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+14:12:54.840 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+14:13:28.175 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+14:13:40.069 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+14:13:40.107 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+14:13:42.593 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:13:42.650 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:13:42.691 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:13:42.750 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:13:42.791 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:13:42.832 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:14:16.879 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+14:42:13.354 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+14:42:13.373 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+14:42:15.193 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:42:15.210 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:42:15.227 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:42:15.261 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:42:15.277 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:42:15.295 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:46:46.078 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+14:46:46.098 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+14:46:47.888 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:46:47.903 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:46:47.928 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:46:47.963 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:46:47.979 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:46:47.993 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region
+14:52:11.555 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+14:52:11.571 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+14:52:13.392 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rNOWith 12 records
+14:52:13.408 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions NRSWith 12 records
+14:52:13.425 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rCEWith 12 records
+14:52:13.444 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rEAWith 12 records
+14:52:13.470 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rWEWith 12 records
+14:52:13.486 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rSOWith 12 records
+14:55:13.593 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+14:55:13.607 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+14:55:13.607 [main] TRACE com.fdmgroup.services.UpdateDataService - Raw PSI5data: 
+[#document: null]
+14:55:15.529 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rNO With 12 records
+14:55:15.573 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions NRS With 12 records
+14:55:15.605 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rCE With 12 records
+14:55:15.621 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rEA With 12 records
+14:55:15.637 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rWE With 12 records
+14:55:15.658 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rSO With 12 records
+14:57:18.751 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+14:57:18.769 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+14:57:18.769 [main] TRACE com.fdmgroup.services.UpdateDataService - Raw PSI data: 
+[#document: null]
+14:57:20.862 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rNO With 12 records
+14:57:20.877 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions NRS With 12 records
+14:57:20.895 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rCE With 12 records
+14:57:20.915 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rEA With 12 records
+14:57:20.934 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rWE With 12 records
+14:57:20.949 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rSO With 12 records
+14:57:20.956 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+14:57:20.958 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+14:57:20.958 [main] TRACE com.fdmgroup.services.UpdateDataService - Raw PM25data: 
+[#document: null]
+14:57:20.969 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rNO With 1 records
+14:57:20.975 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rCE With 1 records
+14:57:20.983 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rEA With 1 records
+14:57:20.995 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rWE With 1 records
+14:57:21.001 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Regions rSO With 1 records
+15:08:12.199 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+15:08:12.213 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+15:08:12.214 [main] TRACE com.fdmgroup.services.UpdateDataService - Got PSI Data XML From NEA
+15:08:14.111 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rNO With 12 record(s)
+15:08:14.169 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region NRS With 12 record(s)
+15:08:14.345 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rCE With 12 record(s)
+15:08:14.393 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rEA With 12 record(s)
+15:08:14.446 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rWE With 12 record(s)
+15:08:14.510 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rSO With 12 record(s)
+15:08:14.516 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+15:08:14.519 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+15:08:14.519 [main] TRACE com.fdmgroup.services.UpdateDataService - Got PM 25 Data XML From NEA
+15:08:14.526 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rNO With 1 record(s)
+15:08:14.531 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rCE With 1 record(s)
+15:08:14.537 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rEA With 1 record(s)
+15:08:14.543 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rWE With 1 record(s)
+15:08:14.550 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rSO With 1 record(s)
+15:10:34.788 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Got All Readings for region: rNO
+15:40:36.108 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Got All Readings for region: rNO
+15:42:20.300 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Got All Readings for region: rNO
+15:42:52.053 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Got All Readings for region: rNO
+15:47:33.043 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Got all regions with total of 6
+15:47:33.282 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Got All Readings for region: rNO
+16:13:51.259 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Got all regions with total of 6
+16:13:51.477 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Got All Readings for region: rNO
+16:14:00.212 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+16:14:00.542 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.561 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.567 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.574 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.581 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.593 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.611 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.618 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.628 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.634 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.641 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.647 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.652 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:14:00.657 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+16:22:38.823 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+16:22:39.094 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.109 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.117 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.132 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.141 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.151 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.164 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.172 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.182 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.189 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.203 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.213 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.223 [main] ERROR com.fdmgroup.dao.RecordDaoJpa - Error converting to JSON element
+javax.xml.bind.MarshalException: null
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:500) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at com.fdmgroup.dao.RecordDaoJpa.getCurrentReadingForARegionAsAJSON(RecordDaoJpa.java:47) [classes/:?]
+	at com.fdmgroup.dao.RecordDaoJPATest.getCurrentRecordForARegionInJSONTest(RecordDaoJPATest.java:27) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+Caused by: org.eclipse.persistence.exceptions.XMLMarshalException: 
+Exception Description: A descriptor for class com.fdmgroup.model.Record was not found in the project.  For JAXB, if the JAXBContext was bootstrapped using TypeMappingInfo[] you must call a marshal method that accepts TypeMappingInfo as an input parameter.
+	at org.eclipse.persistence.exceptions.XMLMarshalException.descriptorNotFoundInProject(XMLMarshalException.java:154) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context$ContextState.getSession(Context.java:137) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:798) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext$XMLContextState.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.Context.getSession(Context.java:458) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:366) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.oxm.XMLContext.getSession(XMLContext.java:1) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshalStreamOrWriter(XMLMarshaller.java:1138) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:934) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.internal.oxm.XMLMarshaller.marshal(XMLMarshaller.java:878) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	at org.eclipse.persistence.jaxb.JAXBMarshaller.marshal(JAXBMarshaller.java:496) ~[eclipselink-2.7.0.jar:2.7.0.v20170811-d680af5]
+	... 25 more
+16:22:39.225 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+16:23:36.614 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+16:23:37.007 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+08:59:54.299 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+08:59:54.346 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+08:59:54.347 [main] TRACE com.fdmgroup.services.UpdateDataService - Got PSI Data XML From NEA
+08:59:57.054 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rNO With 12 record(s)
+08:59:57.119 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region NRS With 12 record(s)
+08:59:57.194 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rCE With 12 record(s)
+08:59:57.302 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rEA With 12 record(s)
+08:59:57.369 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rWE With 12 record(s)
+08:59:57.486 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rSO With 12 record(s)
+08:59:57.491 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+08:59:57.493 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+08:59:57.493 [main] TRACE com.fdmgroup.services.UpdateDataService - Got PM 25 Data XML From NEA
+08:59:57.550 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rNO With 1 record(s)
+08:59:57.599 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rCE With 1 record(s)
+08:59:57.608 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rEA With 1 record(s)
+08:59:57.619 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rWE With 1 record(s)
+08:59:57.640 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rSO With 1 record(s)
+09:00:37.449 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+09:00:37.841 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+09:05:53.408 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+09:05:53.435 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+09:05:53.435 [main] TRACE com.fdmgroup.services.UpdateDataService - Got PSI Data XML From NEA
+09:05:55.268 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rNO With 12 record(s)
+09:05:55.323 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region NRS With 12 record(s)
+09:05:55.381 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rCE With 12 record(s)
+09:05:55.435 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rEA With 12 record(s)
+09:05:55.493 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rWE With 12 record(s)
+09:05:55.545 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rSO With 12 record(s)
+09:05:55.551 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+09:05:55.554 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+09:05:55.554 [main] TRACE com.fdmgroup.services.UpdateDataService - Got PM 25 Data XML From NEA
+09:05:55.566 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rNO With 1 record(s)
+09:05:55.572 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rCE With 1 record(s)
+09:05:55.578 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rEA With 1 record(s)
+09:05:55.584 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rWE With 1 record(s)
+09:05:55.590 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rSO With 1 record(s)
+09:06:34.962 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+09:06:35.337 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
