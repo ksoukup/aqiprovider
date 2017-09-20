@@ -1236,3 +1236,30 @@ Exception Description: A descriptor for class com.fdmgroup.model.Record was not 
 09:05:55.590 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rSO With 1 record(s)
 09:06:34.962 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
 09:06:35.337 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+11:14:30.914 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+11:14:31.340 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+11:32:30.333 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+11:32:30.682 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+11:37:05.616 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+11:37:05.640 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+11:37:05.640 [main] TRACE com.fdmgroup.services.UpdateDataService - Got PSI Data XML From NEA
+11:37:07.716 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rNO With 12 record(s)
+11:37:07.789 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region NRS With 12 record(s)
+11:37:07.845 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rCE With 12 record(s)
+11:37:07.910 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rEA With 12 record(s)
+11:37:07.973 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rWE With 12 record(s)
+11:37:08.029 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rSO With 12 record(s)
+11:37:08.036 [main] TRACE com.fdmgroup.services.URLStreamGenerator - Got Stream
+11:37:08.038 [main] TRACE com.fdmgroup.services.XMLDocumentGenerator - Created UnmarshallXMLService
+11:37:08.038 [main] TRACE com.fdmgroup.services.UpdateDataService - Got PM 25 Data XML From NEA
+11:37:08.045 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rNO With 1 record(s)
+11:37:08.053 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rCE With 1 record(s)
+11:37:08.058 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rEA With 1 record(s)
+11:37:08.064 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rWE With 1 record(s)
+11:37:08.084 [main] TRACE com.fdmgroup.dao.RegionDaoJpa - Updated Region rSO With 1 record(s)
+11:37:18.907 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+11:37:19.471 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+11:41:57.152 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+11:41:57.169 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+11:42:14.683 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO
+13:47:44.791 [main] TRACE com.fdmgroup.dao.RecordDaoJpa - Got Current Reading for region: rNO

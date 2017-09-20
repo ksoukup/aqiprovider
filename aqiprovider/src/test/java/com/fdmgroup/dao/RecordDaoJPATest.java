@@ -16,19 +16,15 @@ public class RecordDaoJPATest {
 		List<Record> records = recordDao.getCurrentReadingForARegion("rNO");
 		assertTrue(records != null);
 		for(Record record : records){
-		System.out.println("Record From Test \n" + record.toString());
-		}
-		
-	}
-	
-	@Test
-	public void getCurrentRecordForARegionInJSONTest(){
-		RecordDaoJpa recordDao = new RecordDaoJpa();
-		List<Record> records = recordDao.getCurrentReadingForARegionAsAJSON("rNO");
-		assertTrue(records != null);
-		for(Record record : records){
-		System.out.println("Record From Test \n" + record.toString());
+			System.out.println("Record From Test \n" + record.toString());
 		}
 	}
 
+	@Test
+	public void getCurrentRecordForARegionInJSONTest(){
+		RecordDaoJpa recordDao = new RecordDaoJpa();
+		String recordsAsJson = recordDao.getCurrentReadingForARegionAsAJSON("rNO");
+		assertTrue(recordsAsJson != null);
+		System.out.println("Record From Test \n" + recordsAsJson);
+	}
 }
