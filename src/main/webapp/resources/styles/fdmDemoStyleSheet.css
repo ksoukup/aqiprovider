@@ -1,0 +1,90 @@
+/* reference http://www.colorcombos.com/color-schemes/2899/ColorCombo2899.html */
+
+/* ELEMENTS */
+body	{background-color: CornFlowerBlue;font-family: Arial}
+footer	{font-size: smaller}
+h1		{width: 100%; text-align: center}
+h3		{width: 80%; margin-left: auto; margin-right: auto; text-align: center}
+hr		{width: 80%}
+nav		{width: 60%; margin-left: auto; margin-right: auto;}
+table	{width: 90%; margin-left: auto; margin-right: auto;}
+
+/* ELEMENTS : specific classes */
+div.columns {
+		-webkit-column-count:2;
+		-webkit-column-gap:40px;
+		-webkit-column-rule:3px outset MidnightBlue;
+		} 
+section.comments{
+		font-size: smaller;
+		clear: right
+		}
+		
+/* ELEMENTS : within specific classes */
+.columns a:link,
+.columns a:visited{
+				display: block;
+				width: 100%;
+				color: Blue;
+				background-color: CornFlowerBlue;
+				text-decoration: none;
+				}
+.columns a:hover, 
+.columns a:active{
+				font-weight: bold;
+				color: #F6D55D;
+				background-color: CornFlowerBlue;
+				}		
+.comments p	{text-align: left; color: Black}
+				
+/* ELEMENTS : within other elements */
+footer h4	{font-style: italic}
+				
+/* ELEMENTS : content insertion */
+h1:before	{content: url(../images/fdm-logo.gif);}
+
+/* ID's */	
+#banner	{width: 50%; margin-left: auto; margin-right: auto; text-align:center; font-style: italic; color: #F6D55D}
+
+/* table alternating */
+tr:nth-child(even)		{ background-color:CornflowerBlue; }
+tr:nth-child(odd)		{ background-color:#F6D55D}
+
+/* navigation bar : start */
+nav div	{width: 80%; margin-left: auto; margin-right: auto;}
+nav ul 	{list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		}
+nav li		{width: 20%; float: left;}
+nav a:link, 
+nav a:visited 	{
+				display: block;
+				width: 100%;
+				font-weight: bold;
+				color: #F6D55D;
+				background-color: MidnightBlue;
+				text-align: center;
+				padding: 1%;
+				text-decoration: none;
+				text-transform: uppercase;
+				}
+nav a:hover, 
+nav a:active 		{
+				color: MidnightBlue;
+				background-color: #F6D55D;
+				}
+/* navigation bar : end */
+
+/* html - form validation : start */
+#Buttons	{float: right}
+#Go			{color: White; Background-Color: Green}
+#Cancel		{color: White; Background-Color: Orange}
+
+form			{width: 50%; margin-left: auto; margin-right: auto;}
+legend			{font-weight: bold}
+label			{width: 100%; display: block; float: left; font-size: smaller}
+input			{display: block}
+input:invalid 	{border-color: red;}
+/* html - form validation : end */

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Appenders>
+		<Console name="Console">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+		<File name="AllLogs" fileName="${sys:catalina.base}/logs/AirQualityIndex.log"
+			createOnDemand="True">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</File>
+		<File name="com_fdm" fileName="${sys:catalina.base}/logs/AirQualityIndex_com_fdm.log"
+			createOnDemand="True">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</File>
+		<File name="hibernateLog" fileName="${sys:catalina.base}/logs/AirQualityIndexHibernate.log"
+			createOnDemand="True">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</File>
+	</Appenders>
+	<Loggers>
+		<Root level="error">
+			<AppenderRef ref="AllLogs" />
+		</Root>
+		<Logger name="com.fdm" level="all">
+			<AppenderRef ref="com_fdm" />
+		</Logger>
+		<Logger name="log4j.logger.org.hibernate" level="all">
+			<AppenderRef ref="hibernateLog" />
+		</Logger>
+	</Loggers>
+</Configuration>
