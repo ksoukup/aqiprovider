@@ -1,8 +1,7 @@
 package com.fdm.dao;
 
-import static org.hamcrest.CoreMatchers.instanceOf;
-
 import java.sql.Timestamp;
+import java.util.Collections;
 import java.util.List;
 
 import javax.persistence.EntityManager;
@@ -11,7 +10,9 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.fdm.model.Reading;
+import com.fdm.model.ReadingDateComparator;
 import com.fdm.model.ReadingId;
+import com.fdm.model.ReadingRegionComparator;
 
 public class ReadingDAOJPAImpl implements ReadingDAO {
 	private final static Logger logger = LogManager.getLogger(ReadingDAOJPAImpl.class);
@@ -71,7 +72,9 @@ public class ReadingDAOJPAImpl implements ReadingDAO {
 		sb.append("'");
 		sb.append(regionName);
 		sb.append("'");
-		return em.createQuery(sb.toString(), Reading.class).getResultList();
+		List<Reading> readingList =  em.createQuery(sb.toString(), Reading.class).getResultList();
+		Collections.sort(readingList, new ReadingDateComparator());
+		return readingList;
 	}
 	
 	/* (non-Javadoc)
@@ -81,10 +84,11 @@ public class ReadingDAOJPAImpl implements ReadingDAO {
 	public List<Reading> getReadingsLatest(){
 		StringBuilder sb = new StringBuilder();
 		sb.append("SELECT r1 FROM Reading r1 WHERE r1.timeStamp =");
-		sb.append("(SELECT MAX(r2.timeStamp) FROM Reading r2 WHERE r1.regionName = r2.regionName) ORDER BY r1.regionName");
+		sb.append("(SELECT MAX(r2.timeStamp) FROM Reading r2 WHERE r1.regionName = r2.regionName)");
 		logger.trace("Retrieving the latest readings from DB" );
-		return em.createQuery(sb.toString(), Reading.class).getResultList();
-		
+		List<Reading> readingList = em.createQuery(sb.toString(), Reading.class).getResultList();
+		Collections.sort(readingList, new ReadingRegionComparator());
+		return readingList;
 		
 	}
 }

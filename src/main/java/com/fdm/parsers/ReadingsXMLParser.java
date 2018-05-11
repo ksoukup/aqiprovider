@@ -16,6 +16,7 @@ import javax.xml.parsers.ParserConfigurationException;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.util.Strings;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -93,27 +94,24 @@ public class ReadingsXMLParser implements ReadingsParser {
 								Element readingElement = (Element) readingNode;
 
 								Reading reading = new Reading();
-								reading.setRegionName(regionName);
+								reading.setRegionName(regionName.toUpperCase());
 								reading.setTimeStamp(timeStamp);
 								reading.setType(readingElement.getAttribute("type"));
 								reading.setValue(Double.parseDouble(readingElement.getAttribute("value")));
 								readings.add(reading);
 								logger.trace(reading.toString());
 							}
-							
 
 						}
+
 					}
 					
-					
 				}
-				
 				
 			}
 		
 		}
 		return readings;
 	}
-	
 
 }

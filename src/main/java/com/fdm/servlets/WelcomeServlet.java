@@ -12,9 +12,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import com.fdm.controllers.RegionController;
 import com.fdm.dao.ReadingDAO;
 import com.fdm.dao.ReadingDAOJPAImpl;
 import com.fdm.model.Reading;
+import com.fdm.model.Region;
 
 public class WelcomeServlet extends HttpServlet {
 
@@ -25,9 +27,12 @@ public class WelcomeServlet extends HttpServlet {
 		EntityManager em = ((EntityManagerFactory)context.getAttribute("emf")).createEntityManager();
 		ReadingDAO readingDAO = new ReadingDAOJPAImpl(em);
 		List<Reading> readingsList = readingDAO.getReadingsLatest();
+		RegionController rc = new RegionController();
+		List<Region> regionsList = rc.generateRegionsList(readingsList);
 		
 		req.setAttribute("message", "Most Recent Air Quality Readings");
 		req.setAttribute("readings", readingsList);
+		req.setAttribute("regions", regionsList);
 		RequestDispatcher rd = req
 				.getRequestDispatcher("./WEB-INF/welcomePage.jsp");
 		rd.forward(req, resp);

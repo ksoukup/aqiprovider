@@ -17,9 +17,9 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.hibernate.Transaction;
 import org.w3c.dom.Document;
 
+import com.fdm.controllers.RegionController;
 import com.fdm.dao.ReadingDAO;
 import com.fdm.dao.ReadingDAOJPAImpl;
 import com.fdm.model.Reading;
@@ -36,12 +36,13 @@ public class Client {
 //		xmlParser("http://api.nea.gov.sg/api/WebAPI/?dataset=psi_update&keyref=781CF461BB6606AD1260F4D81345157FE21D05A9F8ACBCAF");
 //		xmlParser("http://api.nea.gov.sg/api/WebAPI/?dataset=pm2.5_update&keyref=781CF461BB6606AD1260F4D81345157FE21D05A9F8ACBCAF");
 //		getRecentReadings();
-//		getReadingsByRegion();
-		getReading();
-		updateReading();
-		removeReading();
-		getReading();
-		addReading();
+		//getReadingsByRegion();
+//		getReading();
+//		updateReading();
+//		removeReading();
+//		getReading();
+//		addReading();
+		getRegions();
 		emf.close();
 
 	}
@@ -102,10 +103,20 @@ public class Client {
 		EntityManager em = emf.createEntityManager();
 		ReadingDAO readingDao = new ReadingDAOJPAImpl(em);
 		List<Reading> readingsList = readingDao.getReadingsByRegion("rWE");
-		
+		//Collections.sort(readingsList, new ReadingComparator());
 		for(Reading reading : readingsList) {
-			logger.trace("Got this " + reading.toString());
+			logger.trace("Got this " + reading.toString() );
 		}
+	}
+	
+	private static void getRegions() {
+		EntityManager em = emf.createEntityManager();
+		ReadingDAO readingDao = new ReadingDAOJPAImpl(em);
+		List<Reading> readingsList = readingDao.getReadingsLatest();
+		
+		RegionController rc = new RegionController();
+		rc.generateRegionsList(readingsList);
+		
 	}
 	
 	private static void xmlParser(String url) {

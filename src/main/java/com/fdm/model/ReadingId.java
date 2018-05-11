@@ -5,6 +5,10 @@ import java.sql.Timestamp;
 
 
 public class ReadingId implements Serializable{
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	String regionName;
 	Timestamp timeStamp;
 	String type;

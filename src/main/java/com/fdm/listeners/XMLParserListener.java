@@ -38,12 +38,7 @@ public class XMLParserListener implements ServletContextListener {
     public void contextInitialized(ServletContextEvent sce) {
 		ServletContext context = sce.getServletContext();
 		EntityManagerFactory emf = (EntityManagerFactory) context.getAttribute("emf");
-		if (emf != null) {
-	    	RefreshReadings rr = new RefreshReadings();
-	    	rr.runParser(emf);
-	        logger.trace("Completed Running XML Parser at: " + new Date());
-		}
-		else logger.error("Entity manager Factory is null");
+
         if ((scheduler == null) || (!scheduler.isTerminated())) {
             scheduler = Executors.newSingleThreadScheduledExecutor();
             LocalDateTime nextWholeHour = LocalDateTime.now().plusHours(1).truncatedTo(ChronoUnit.HOURS).plusMinutes(10);
